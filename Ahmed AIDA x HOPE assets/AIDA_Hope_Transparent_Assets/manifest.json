@@ -1,0 +1,632 @@
+[
+  {
+    "file": "assets/mascot-wave.png",
+    "width": 1417,
+    "height": 1110,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1413,
+      1110
+    ],
+    "size_bytes": 1307407,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the top-right 3D white bird mascot in its waving pose, with one eye open and one happy wink. Include feather crest, bow, headphones, face and entire visible pink hoodie and waving wing. Upper-body bust cropped neatly below chest. Remove ribbon, pink backdrop, sparkles and all page content. Do not add feet or new pose.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-holding-card.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1498,
+      1024
+    ],
+    "size_bytes": 1681612,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY the top-right 3D white bird mascot holding the blank white rectangular booth card. Keep happy wink, head, white feather crest, bow, headphones, burgundy visor, tiny yellow beak, pink hoodie, visible wing gripping white card. Upper-body bust. White card is part of this asset; no numbers on it. Remove ribbon and surroundings.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-thinking.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1500,
+      1024
+    ],
+    "size_bytes": 1612051,
+    "source_reference": "Beat the AI_ Make Your Choice-3.png",
+    "description": "Extract ONLY the top-right 3D white bird mascot in its thoughtful pose, one wing beneath beak, two open pink digital ring eyes, tilted head, crest, bow, headphones and pink hoodie. Upper-body bust. Remove ribbon, sparkles and page.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-home.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      33,
+      23,
+      1752,
+      869
+    ],
+    "size_bytes": 896393,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the large satin pink breast cancer awareness ribbon artwork behind the upper-right waving bird, including its loop, crossed tails and long flowing ribbon to the right. Remove bird and every UI element, reconstruct only the concealed ribbon portions coherently. Match original rose satin texture and highlights.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-challenge.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      32,
+      1754,
+      857
+    ],
+    "size_bytes": 906483,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY the pink satin awareness ribbon behind the card-holding mascot at upper right. Include entire loop, crossed ribbon tails and flowing flourish on right. Remove mascot and background; reconstruct covered ribbon portions. Preserve this screenshot's silk shading and geometry.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-choice.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      17,
+      1773,
+      887
+    ],
+    "size_bytes": 890458,
+    "source_reference": "Beat the AI_ Make Your Choice-3.png",
+    "description": "Extract ONLY the softer pale pink awareness ribbon loop behind the thinking mascot, with gentle flowing ribbon tail. Match its more subtle pale blush color and soft texture. Remove mascot and page, reconstruct concealed ribbon areas.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-search.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      113,
+      133,
+      1154,
+      1155
+    ],
+    "size_bytes": 237175,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the dark burgundy outline magnifying glass icon inside the left activity card circular badge. No badge circle, no decorative ticks, no title. Keep round lens and diagonal down-right handle, thick rounded stroke.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-sliders.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      251,
+      215,
+      1290,
+      857
+    ],
+    "size_bytes": 783435,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the dark plum two-horizontal-sliders icon in middle activity card badge. No circular badge and no decorative ticks. Two thick rounded horizontal lines with round slider rings, matching source shape.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-question-chat.png",
+    "width": 1374,
+    "height": 1145,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      60,
+      29,
+      1221,
+      1079
+    ],
+    "size_bytes": 281516,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY dark burgundy outline chat bubble containing question mark from third activity card badge. No badge background and no decorative ticks. Match exact smooth rounded outline and bubble tail.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-ultrasound-cards.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      19,
+      1760,
+      853
+    ],
+    "size_bytes": 1324600,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the stylized stack of three physical ultrasound cards in the bottom-left activity illustration, front card white rounded frame with grayscale scan picture, two faded cards behind rotated, including subtle card shadows. Remove pink abstract oval and every decorative tick. This is a decorative website illustration, preserve appearance from source rather than producing a new clinical image.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-measurement-sliders.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      22,
+      1502,
+      1024
+    ],
+    "size_bytes": 1069416,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the pastel 3D-like slider illustration inside middle activity card: three horizontal pastel pink/lilac/peach slider tracks with matching circular knobs within subtle white rounded panel. Preserve the white panel as part of illustration but exterior transparent. EXCLUDE the bar chart on its right, remove page background.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-bar-chart.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      51,
+      47,
+      1498,
+      992
+    ],
+    "size_bytes": 952123,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY small pastel bar chart illustration in white rounded square panel at bottom-middle card right: three upright rounded bars pink/lilac/pink with varied heights. White panel retained as part of asset, exterior transparent. Exclude three sliders on left. No numbers, axes, labels.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-chat-pink.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      35,
+      2,
+      1504,
+      967
+    ],
+    "size_bytes": 1153403,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY upper pink rounded chat speech bubble of the home Ask AIDA activity illustration, with three pale short horizontal lines and bottom-left bubble tail. Remove overlapping lilac bubble and question-mark disc, reconstruct its covered edge. No background oval or text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-chat-lilac.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      108,
+      1404,
+      984
+    ],
+    "size_bytes": 1021320,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY lower lilac rounded chat speech bubble of home Ask AIDA illustration, with two pale horizontal lines and lower-right speech tail. No pink upper bubble, no question disk, no background.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-question-disc.png",
+    "width": 1290,
+    "height": 1219,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1205,
+      1215
+    ],
+    "size_bytes": 543411,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the ivory white circular three-dimensional question-mark disc with raspberry question mark from home Ask AIDA illustration. Keep tiny natural edge depth/shadow. No chat bubbles or pink background.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-cards.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      263,
+      17,
+      1276,
+      1007
+    ],
+    "size_bytes": 916266,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY dark burgundy line icon of two overlapping tilted rounded playing cards inside Play a round badge. No badge circle, no decorative accents, no page text. Keep original icon rounded strokes.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-pencil.png",
+    "width": 1402,
+    "height": 1122,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      210,
+      79,
+      1366,
+      1042
+    ],
+    "size_bytes": 208719,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY dark plum thick outline diagonal pencil icon inside card-number panel badge. No badge circle, no accents. Smooth matching stroke, diagonally upward to right.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-folder.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      435,
+      174,
+      1260,
+      984
+    ],
+    "size_bytes": 904306,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY dark burgundy rounded folder outline icon inside bottom-left peach badge, including the two little accent rays just outside its top-right corner. No peach circle or page. Match original shape.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-info.png",
+    "width": 1380,
+    "height": 1140,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      123,
+      77,
+      1190,
+      1068
+    ],
+    "size_bytes": 191687,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY blue circled lowercase i information icon from the light-blue human-review note. No background rectangle or text. Clean blue ring and centered i, exact source shape.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-fanned-cards.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      243,
+      55,
+      1362,
+      984
+    ],
+    "size_bytes": 1035542,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY the subtle pale-pink fan of three blank playing-card shapes behind the Play a round heading in left card upper-right. Match faint monochrome pink tints and rounded tilted rectangles. Remove title and background. No numbers or new lettering.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-card-seven.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      349,
+      23,
+      1452,
+      1024
+    ],
+    "size_bytes": 1053810,
+    "source_reference": "AIDA × Hope_ Beat the AI-1.png",
+    "description": "Extract ONLY the tilted pale lavender booth card with numeral 7 behind the Have a card heading on right, including layered card shape. Preserve exact numeral '7' and gentle lavender tones. Reconstruct concealed top if needed. No other text or page.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-raspberry.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      432,
+      120,
+      1314,
+      872
+    ],
+    "size_bytes": 953907,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the large four-point raspberry star sparkle to right of the hero bird head. Single sparkle only, concave curved sides and elongated vertical points, matching source. No background.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-peach.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      25,
+      66,
+      1254,
+      1220
+    ],
+    "size_bytes": 192694,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the small peach-gold four-point sparkle below and to right of bird headphone near x1390 y340. Single four-point sparkle, match source color and shape. No background.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-three-rays.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      209,
+      23,
+      1460,
+      954
+    ],
+    "size_bytes": 1148675,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the three pink rounded emphasis strokes positioned just above and right of the hero bird crest. Three capsule-shaped rays in fan arrangement, matching source. No mascot, no other sparkles.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-petal.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1314,
+      978
+    ],
+    "size_bytes": 927370,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY a single pale pink soft teardrop petal shape floating to left of the ribbon's upper loop, matching organic curved source decorative petal. No ribbon or page. One petal on transparency.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-oval.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      19,
+      1752,
+      887
+    ],
+    "size_bytes": 630865,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the flattened pale-pink organic oval decorative shape behind the lower-left ultrasound-card illustration, without cards or accents. Smooth softly irregular oval matching the source shade, rebuild covered portions. One shape.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/brand-aida-hope.png",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      55,
+      112,
+      2102,
+      652
+    ],
+    "size_bytes": 322452,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY the complete top-left wordmark exactly 'AIDA × Hope', including three raspberry tiny brand rays before AIDA. AIDA dark burgundy heavy sans serif; × and Hope vivid raspberry. Preserve lettering and arrangement as in source. Remove all background. Full wordmark, no extra text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-arrow-right.png",
+    "width": 1448,
+    "height": 1086,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      194,
+      72,
+      1402,
+      899
+    ],
+    "size_bytes": 157714,
+    "source_reference": "AIDA × Hope awareness activity hub-2.png",
+    "description": "Extract ONLY raspberry right arrow from circular end of Explore the activities button. No white circle or button. Simple horizontal shaft with two rounded diagonal arrowhead strokes, right-facing.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-check-circle.png",
+    "width": 1309,
+    "height": 1201,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      167,
+      1257,
+      1201
+    ],
+    "size_bytes": 622465,
+    "source_reference": "Beat the AI_ Make Your Choice-3.png",
+    "description": "Extract ONLY the raspberry filled circle with white check mark next to selected Malignant choice. No option box or wording. Crisp round raspberry circle, white check mark exactly matching source.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-radio-empty.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      441,
+      231,
+      1130,
+      734
+    ],
+    "size_bytes": 785429,
+    "source_reference": "Beat the AI_ Make Your Choice-3.png",
+    "description": "Extract ONLY the unselected circular radio outline beside Normal option. No text or card. Thin pale mauve circular stroke, fully transparent interior and exterior.",
+    "method": "AI-assisted cutout/reconstruction"
+  }
+]

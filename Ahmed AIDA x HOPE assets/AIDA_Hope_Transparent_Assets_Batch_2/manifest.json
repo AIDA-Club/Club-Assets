@@ -1,0 +1,716 @@
+[
+  {
+    "file": "assets/mascot-ask-wave-wink.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      171,
+      23,
+      1480,
+      1024
+    ],
+    "size_bytes": 1726077,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Upper-right hero mascot only: white 3D bird, feather crest, pink bow/headphones/hoodie, burgundy digital face with one round eye and one wink, open waving wing at viewer left. Remove ribbon and all decorations. Retain upper-body bottom crop.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-curiosity.png",
+    "width": 1430,
+    "height": 1100,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      41,
+      19,
+      1412,
+      1100
+    ],
+    "size_bytes": 1275870,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Sidebar mascot only at bottom right: 3D bird, two round glowing eyes, wing finger touching beak thoughtfully. Remove lavender panel, stars, rays, blobs and text. Retain upper-body crop.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/avatar-neutral.png",
+    "width": 1295,
+    "height": 1214,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      2,
+      1263,
+      1214
+    ],
+    "size_bytes": 1179461,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Small circular avatar beside Ask AIDA title: mascot face with two round glowing eyes. Preserve pink circular avatar disk but transparent outside circle, no text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/avatar-smiling.png",
+    "width": 1310,
+    "height": 1200,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      31,
+      1258,
+      1200
+    ],
+    "size_bytes": 1175198,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Small circular avatar beside Hi message: mascot face with two happy curved closed eyes. Preserve circular pink avatar disk with transparent outside.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-result-happy-wave.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      3,
+      1516,
+      1011
+    ],
+    "size_bytes": 1762085,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Upper-right hero mascot only: white 3D bird with two closed happy curved eyes, yellow smiling beak, viewer-right wing raised outward. Pink bow headphones hoodie. No ribbon/decorations. Upper-body crop.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-reveal-thinking.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1522,
+      1024
+    ],
+    "size_bytes": 1679637,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Upper-right hero mascot only with two round glowing pink eyes, finger beside beak, white feathers pink bow headphones hoodie. No ribbon/decorations. Upper-body crop.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-compare-mini.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      33,
+      21,
+      1474,
+      998
+    ],
+    "size_bytes": 1586387,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Small mascot above Reveal truth button only, upper-body portrait leaning slightly with finger by beak and two round pink glowing eyes. Remove speech bubble and pink rays.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-ask.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      41,
+      27,
+      1522,
+      1000
+    ],
+    "size_bytes": 1688499,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Large pink satin awareness ribbon behind hero mascot only. Reconstruct hidden ribbon edges, preserve loop/cross and broad wavy right tail. No bird or decorations.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-result.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      47,
+      53,
+      1486,
+      1000
+    ],
+    "size_bytes": 1738433,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Pink satin awareness ribbon behind happy hero only. Reconstruct hidden edges, preserve tall loop/cross and wavy right tail. No bird.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-reveal.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      55,
+      25,
+      1516,
+      1001
+    ],
+    "size_bytes": 1876412,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Pink satin awareness ribbon behind thinking hero only. Reconstruct hidden edges. No bird, text, decorations.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-book.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      215,
+      37,
+      1464,
+      968
+    ],
+    "size_bytes": 989988,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Burgundy outline open book from Explain a Term topic card ONLY. Preserve simple flat stroke style, no rays/card/text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-location.png",
+    "width": 1305,
+    "height": 1205,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      138,
+      101,
+      1253,
+      1161
+    ],
+    "size_bytes": 291891,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Navy outline location pin with round hollow center from Where to Get Help card only. Flat stroke, no rays/card/text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-user-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      73,
+      18,
+      1490,
+      954
+    ],
+    "size_bytes": 873900,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Blue user silhouette icon at Your answer strip only. Include pale blue circular badge; transparent outside badge. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-user-purple.png",
+    "width": 1374,
+    "height": 1145,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      74,
+      86,
+      1338,
+      1105
+    ],
+    "size_bytes": 681739,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Purple outline user icon in You score only with lavender circular badge. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-robot.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      49,
+      36,
+      1506,
+      968
+    ],
+    "size_bytes": 1212263,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Burgundy outline robot head in AI score with pink circular badge. Two circular eyes, rounded rectangular head, antenna. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-dataset.png",
+    "width": 1292,
+    "height": 1218,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      106,
+      54,
+      1250,
+      1066
+    ],
+    "size_bytes": 614240,
+    "source_reference": "E6BDDB8D-5277-4E7E-8728-0AD996CE106A.jpeg",
+    "description": "Orange outline document with three horizontal lines in dataset label area with pale peach circular badge. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-image.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      267,
+      21,
+      1356,
+      952
+    ],
+    "size_bytes": 1037464,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Burgundy outline framed image with mountains/sun beside Where the AI looked, pale pink circular badge included. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-pencil-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      297,
+      168,
+      1114,
+      863
+    ],
+    "size_bytes": 973499,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Blue outline diagonal pencil from Your answer strip with pale blue circular badge. No text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-expand.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      313,
+      195,
+      1352,
+      856
+    ],
+    "size_bytes": 832024,
+    "source_reference": "7D1FF7FC-2E2A-48CB-8EDD-7BCA853A56BE.jpeg",
+    "description": "Tiny gray-blue expand symbol at Tap to enlarge: two opposing diagonal arrows. Flat strokes, no text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-input-chat.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      383,
+      21,
+      1226,
+      854
+    ],
+    "size_bytes": 925461,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Gray-blue outline speech bubble at far left of question input, flat simple strokes. No input field/text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-send.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      60,
+      48,
+      1228,
+      1194
+    ],
+    "size_bytes": 869769,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "White outline paper-plane send symbol inside pink circular gradient button at bottom right of question input. Include circle, transparent outside.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-plus.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      558,
+      292,
+      994,
+      904
+    ],
+    "size_bytes": 653431,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Burgundy thin plus sign from New conversation button only. No text/button.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-rays-purple.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      55,
+      93,
+      1180,
+      918
+    ],
+    "size_bytes": 797338,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Two or three lilac/purple accent rays above Myth or Fact icon only. Flat rounded tapered strokes, no icon/card.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-rays-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      549,
+      148,
+      1498,
+      968
+    ],
+    "size_bytes": 815326,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Two blue accent rays above location pin only. Flat rounded tapered strokes, no icon/card.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-lilac-blob.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      15,
+      1520,
+      1024
+    ],
+    "size_bytes": 1293065,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Lilac abstract rounded petal/blob behind curiosity mascot, isolate one large smooth three-lobed pale lavender shape. No mascot/card/text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-search.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      113,
+      133,
+      1154,
+      1155
+    ],
+    "size_bytes": 237175,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-question-chat.png",
+    "width": 1374,
+    "height": 1145,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      60,
+      29,
+      1221,
+      1079
+    ],
+    "size_bytes": 281516,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-arrow-right.png",
+    "width": 1448,
+    "height": 1086,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      194,
+      72,
+      1402,
+      899
+    ],
+    "size_bytes": 157714,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-raspberry.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      432,
+      120,
+      1314,
+      872
+    ],
+    "size_bytes": 953907,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-peach.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      25,
+      66,
+      1254,
+      1220
+    ],
+    "size_bytes": 192694,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-three-rays.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      209,
+      23,
+      1460,
+      954
+    ],
+    "size_bytes": 1148675,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-petal.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1314,
+      978
+    ],
+    "size_bytes": 927370,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-oval.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      19,
+      1752,
+      887
+    ],
+    "size_bytes": 630865,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/brand-aida-hope.png",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      55,
+      112,
+      2102,
+      652
+    ],
+    "size_bytes": 322452,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02.jpeg",
+    "description": "Shared graphic visible on these pages; reused AI-assisted reconstruction from the first asset pack.",
+    "method": "AI-assisted cutout/reconstruction"
+  }
+]

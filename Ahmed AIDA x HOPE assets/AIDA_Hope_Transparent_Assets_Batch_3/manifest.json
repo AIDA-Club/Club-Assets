@@ -1,0 +1,905 @@
+[
+  {
+    "file": "assets/mascot-about-wave.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      17,
+      1496,
+      1024
+    ],
+    "size_bytes": 1720693,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Top-right hero bird mascot only: white feather crest, pink bow/headphones/hoodie, burgundy digital face, two curved closed smiling eyes, viewer-left wing waving. Upper-body crop, remove ribbon and stars.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-about-explore.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      37,
+      35,
+      1516,
+      1024
+    ],
+    "size_bytes": 1614986,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Small bird mascot in bottom-right clear limits card only. Tilted head with one round eye and wink, viewer-right wing gesturing outwards. Upper-body crop, remove pink oval and rays and text.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-tweak-thinking-wink.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      93,
+      9,
+      1512,
+      1010
+    ],
+    "size_bytes": 1729391,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Hero bird only: white feather crest, pink bow/headphones/hoodie, burgundy face with viewer-left round eye and viewer-right wink, finger against yellow beak. Upper-body crop. Remove ribbon/decorations.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-about.png",
+    "width": 1324,
+    "height": 1188,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      31,
+      1306,
+      1188
+    ],
+    "size_bytes": 828473,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Pink satin awareness ribbon behind top-right bird only. Tall loop, crossing tails. Reconstruct covered portions. REMOVE entire bird, no feathers/face/bow/clothes, no decorations.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-tweak.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      25,
+      14,
+      1774,
+      887
+    ],
+    "size_bytes": 920289,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Pink satin awareness ribbon behind hero only, tall loop left and broad wavy tail to right. Reconstruct hidden edges. REMOVE entire bird, no feathers/face/bow/clothes, no decorations.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/illustration-neural-network.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      47,
+      19,
+      1394,
+      992
+    ],
+    "size_bytes": 1158792,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Small neural network graphic between scan and label legend: pink raspberry circles/nodes joined by thin pink lines. Isolate nodes and lines only, remove rounded tile/arrows/text. Preserve reference arrangement.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-test-image-pink.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      39,
+      69,
+      1436,
+      1003
+    ],
+    "size_bytes": 1088047,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Pink outline framed image with small round sun and simple mountains in test images metric. Remove rays/text/card. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-accuracy-bars-purple.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      25,
+      63,
+      1452,
+      972
+    ],
+    "size_bytes": 1100060,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Three rising rounded purple vertical bars in accuracy metric only. Remove rays/text/card. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-document-coral.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      273,
+      19,
+      1152,
+      996
+    ],
+    "size_bytes": 1030540,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Coral outline sheet/document icon with folded top-right corner and three horizontal lines from identified cases metric. No rays/text/card. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-warning-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      45,
+      1394,
+      1024
+    ],
+    "size_bytes": 969813,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Blue outline rounded triangle warning symbol with exclamation mark from benign cases metric. Remove rays/text/card. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-warning-orange-badge.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      92,
+      49,
+      1242,
+      1188
+    ],
+    "size_bytes": 687380,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Orange circular warning badge with white exclamation mark at Small test set notice. Include pale peach circular rim, transparent outside circle. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-report-burgundy.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      497,
+      44,
+      1466,
+      966
+    ],
+    "size_bytes": 780709,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Tiny burgundy outline document with folded corner and lines beside Confusion matrix link. Only icon no text/row. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-bars-burgundy.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      343,
+      182,
+      1474,
+      888
+    ],
+    "size_bytes": 704723,
+    "source_reference": "0B660380-A25A-442B-B0A1-05E023CE9A0E.jpeg",
+    "description": "Tiny three rising solid burgundy vertical bars beside Training and test split link. Only icon no text/row. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-leaf-reset.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      337,
+      103,
+      1320,
+      1002
+    ],
+    "size_bytes": 1067653,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Raspberry outline diagonal leaf with central vein at Reset to typical benign button only, no text/button. Flat icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-cell-reset.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      289,
+      53,
+      1370,
+      942
+    ],
+    "size_bytes": 1108610,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Raspberry outline small cell or sun-shaped reset symbol beside Reset to typical malignant, ring with projecting short rays and center details. Only icon no text/button. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-measurement-tools.png",
+    "width": 1304,
+    "height": 1206,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      19,
+      1204,
+      1102
+    ],
+    "size_bytes": 634771,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Raspberry outline crossed measurement tools from Explore measurements panel header, pale pink circle included, no text. Match unusual crossed curved instrument shape. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-microscope.png",
+    "width": 1309,
+    "height": 1201,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      35,
+      101,
+      1212,
+      1153
+    ],
+    "size_bytes": 341092,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Purple outline microscope beside Under microscope panel title, only icon, no text/panel. Flat line icon.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-live-output-bars.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      56,
+      1482,
+      959
+    ],
+    "size_bytes": 910687,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Three raspberry rising rounded bars with pale pink circular badge beside Live model output title. Only icon, no text. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-help-circle.png",
+    "width": 1448,
+    "height": 1086,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      33,
+      37,
+      1289,
+      1028
+    ],
+    "size_bytes": 126093,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Small gray-blue outline question mark inside thin circle beside measurement sliders. Icon only no slider/text. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-info-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      281,
+      38,
+      1306,
+      974
+    ],
+    "size_bytes": 927766,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Small blue circle with white lowercase i from info strip near top. Transparent outside circle, no strip/text. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-threshold-gear.png",
+    "width": 1305,
+    "height": 1206,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      33,
+      23,
+      1299,
+      1206
+    ],
+    "size_bytes": 515847,
+    "source_reference": "8F3547A9-D0C8-4828-B236-981179E28BE1.jpeg",
+    "description": "Raspberry outline cog gear with small central flower/circle from rightmost How to read demo item. Only icon no text/background. Flat.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-ask-wave-wink.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      171,
+      23,
+      1480,
+      1024
+    ],
+    "size_bytes": 1726077,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/mascot-curiosity.png",
+    "width": 1430,
+    "height": 1100,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      41,
+      19,
+      1412,
+      1100
+    ],
+    "size_bytes": 1275870,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/avatar-neutral.png",
+    "width": 1295,
+    "height": 1214,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      2,
+      1263,
+      1214
+    ],
+    "size_bytes": 1179461,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/avatar-smiling.png",
+    "width": 1310,
+    "height": 1200,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      31,
+      1258,
+      1200
+    ],
+    "size_bytes": 1175198,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/ribbon-ask.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      41,
+      27,
+      1522,
+      1000
+    ],
+    "size_bytes": 1688499,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-search.png",
+    "width": 1312,
+    "height": 1199,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      113,
+      133,
+      1154,
+      1155
+    ],
+    "size_bytes": 237175,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-question-chat.png",
+    "width": 1374,
+    "height": 1145,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      60,
+      29,
+      1221,
+      1079
+    ],
+    "size_bytes": 281516,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-book.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      215,
+      37,
+      1464,
+      968
+    ],
+    "size_bytes": 989988,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-location.png",
+    "width": 1305,
+    "height": 1205,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      138,
+      101,
+      1253,
+      1161
+    ],
+    "size_bytes": 291891,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-input-chat.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      383,
+      21,
+      1226,
+      854
+    ],
+    "size_bytes": 925461,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-send.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      60,
+      48,
+      1228,
+      1194
+    ],
+    "size_bytes": 869769,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-plus.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      558,
+      292,
+      994,
+      904
+    ],
+    "size_bytes": 653431,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/icon-arrow-right.png",
+    "width": 1448,
+    "height": 1086,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      194,
+      72,
+      1402,
+      899
+    ],
+    "size_bytes": 157714,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-rays-blue.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      549,
+      148,
+      1498,
+      968
+    ],
+    "size_bytes": 815326,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-rays-purple.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      55,
+      93,
+      1180,
+      918
+    ],
+    "size_bytes": 797338,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-lilac-blob.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      15,
+      1520,
+      1024
+    ],
+    "size_bytes": 1293065,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-peach.png",
+    "width": 1278,
+    "height": 1230,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      25,
+      66,
+      1254,
+      1220
+    ],
+    "size_bytes": 192694,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-sparkle-raspberry.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      432,
+      120,
+      1314,
+      872
+    ],
+    "size_bytes": 953907,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-three-rays.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      209,
+      23,
+      1460,
+      954
+    ],
+    "size_bytes": 1148675,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-petal.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ],
+    "content_bounds": [
+      0,
+      0,
+      1314,
+      978
+    ],
+    "size_bytes": 927370,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/decoration-pink-oval.png",
+    "width": 1774,
+    "height": 887,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      0,
+      19,
+      1752,
+      887
+    ],
+    "size_bytes": 630865,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  },
+  {
+    "file": "assets/brand-aida-hope.png",
+    "width": 2172,
+    "height": 724,
+    "format": "PNG",
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      255
+    ],
+    "content_bounds": [
+      55,
+      112,
+      2102,
+      652
+    ],
+    "size_bytes": 322452,
+    "source_reference": "C4BABFA4-7F08-41F4-B52D-627FFD78DA02(1).jpeg",
+    "description": "Shared graphic included unchanged from the previous asset pack for the repeated Ask AIDA screenshot.",
+    "method": "AI-assisted cutout/reconstruction"
+  }
+]
